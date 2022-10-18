@@ -11,8 +11,8 @@ function Heade(): JSX.Element {
           <h1>DSMeta</h1>
           <p>
             Desenvolvido por
-            <a href="https://www.instagram.com/devsuperior.ig">
-              @devsuperior.ig
+            <a href="https://www.instagram.com/fabrizioabreuu/">
+              @fabrizio Abreu
             </a>
           </p>
         </div>
